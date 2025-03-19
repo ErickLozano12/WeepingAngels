@@ -5,7 +5,30 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/erloz/OneDrive/Documentos/GitHub/WeepingAngels/WeepingAngels/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/erloz/OneDrive/Documentos/GitHub/WeepingAngels/WeepingAngels/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/erloz/OneDrive/Documentos/GitHub/WeepingAngels/WeepingAngels/Content/Enemy/Ch30_1001_Diffuse.uasset",
+				"C:/Users/erloz/OneDrive/Documentos/GitHub/WeepingAngels/WeepingAngels/Content/Enemy/Ch30_1001_Glossiness.uasset",
+				"C:/Users/erloz/OneDrive/Documentos/GitHub/WeepingAngels/WeepingAngels/Content/Enemy/Ch30_1001_Normal.uasset",
+				"C:/Users/erloz/OneDrive/Documentos/GitHub/WeepingAngels/WeepingAngels/Content/Enemy/Ch30_1001_Specular.uasset",
+				"C:/Users/erloz/OneDrive/Documentos/GitHub/WeepingAngels/WeepingAngels/Content/Enemy/Ch30_1002_Diffuse.uasset",
+				"C:/Users/erloz/OneDrive/Documentos/GitHub/WeepingAngels/WeepingAngels/Content/Enemy/Ch30_1002_Glossiness.uasset",
+				"C:/Users/erloz/OneDrive/Documentos/GitHub/WeepingAngels/WeepingAngels/Content/Enemy/Ch30_1002_Normal.uasset",
+				"C:/Users/erloz/OneDrive/Documentos/GitHub/WeepingAngels/WeepingAngels/Content/Enemy/Ch30_1002_Specular.uasset",
+				"C:/Users/erloz/OneDrive/Documentos/GitHub/WeepingAngels/WeepingAngels/Content/Enemy/Ch30_Body.uasset",
+				"C:/Users/erloz/OneDrive/Documentos/GitHub/WeepingAngels/WeepingAngels/Content/Enemy/Ch30_Body1.uasset",
+				"C:/Users/erloz/OneDrive/Documentos/GitHub/WeepingAngels/WeepingAngels/Content/Enemy/Walking.uasset",
+				"C:/Users/erloz/OneDrive/Documentos/GitHub/WeepingAngels/WeepingAngels/Content/Enemy/Walking_PhysicsAsset.uasset",
+				"C:/Users/erloz/OneDrive/Documentos/GitHub/WeepingAngels/WeepingAngels/Content/Enemy/Walking_Skeleton.uasset",
+				"C:/Users/erloz/OneDrive/Documentos/GitHub/WeepingAngels/WeepingAngels/Content/BP_WeepingAngel.uasset",
+				"C:/Users/erloz/OneDrive/Documentos/GitHub/WeepingAngels/WeepingAngels/Content/BP_IANPC.uasset",
+				"C:/Users/erloz/OneDrive/Documentos/GitHub/WeepingAngels/WeepingAngels/Content/BT_NPC.uasset",
+				"C:/Users/erloz/OneDrive/Documentos/GitHub/WeepingAngels/WeepingAngels/Content/BB_NPC.uasset",
+				"C:/Users/erloz/OneDrive/Documentos/GitHub/WeepingAngels/WeepingAngels/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/Users/erloz/OneDrive/Documentos/GitHub/WeepingAngels/WeepingAngels/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/74/L8YI26TZHIOYL0LW3AVBXH.uasset",
+				"C:/Users/erloz/OneDrive/Documentos/GitHub/WeepingAngels/WeepingAngels/Content/BP_NPC_IAController.uasset",
+				"C:/Users/erloz/OneDrive/Documentos/GitHub/WeepingAngels/WeepingAngels/Content/BTService_PlayerLocation.uasset",
+				"C:/Users/erloz/OneDrive/Documentos/GitHub/WeepingAngels/WeepingAngels/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/7S/P0EM9L4BU4FAEVQUNY1LEL.uasset",
+				"C:/Users/erloz/OneDrive/Documentos/GitHub/WeepingAngels/WeepingAngels/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/C9/NFKH3LC3NFG5QBNWL3NYWS.uasset"
 			]
 		}
 	]
