@@ -19,7 +19,6 @@
 				"C:/Users/erloz/OneDrive/Documentos/GitHub/WeepingAngels/WeepingAngels/Content/Enemy/Walking.uasset",
 				"C:/Users/erloz/OneDrive/Documentos/GitHub/WeepingAngels/WeepingAngels/Content/Enemy/Walking_PhysicsAsset.uasset",
 				"C:/Users/erloz/OneDrive/Documentos/GitHub/WeepingAngels/WeepingAngels/Content/Enemy/Walking_Skeleton.uasset",
-				"C:/Users/erloz/OneDrive/Documentos/GitHub/WeepingAngels/WeepingAngels/Content/BP_WeepingAngel.uasset",
 				"C:/Users/erloz/OneDrive/Documentos/GitHub/WeepingAngels/WeepingAngels/Content/BP_IANPC.uasset",
 				"C:/Users/erloz/OneDrive/Documentos/GitHub/WeepingAngels/WeepingAngels/Content/BT_NPC.uasset",
 				"C:/Users/erloz/OneDrive/Documentos/GitHub/WeepingAngels/WeepingAngels/Content/BB_NPC.uasset",
@@ -28,7 +27,11 @@
 				"C:/Users/erloz/OneDrive/Documentos/GitHub/WeepingAngels/WeepingAngels/Content/BP_NPC_IAController.uasset",
 				"C:/Users/erloz/OneDrive/Documentos/GitHub/WeepingAngels/WeepingAngels/Content/BTService_PlayerLocation.uasset",
 				"C:/Users/erloz/OneDrive/Documentos/GitHub/WeepingAngels/WeepingAngels/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/7S/P0EM9L4BU4FAEVQUNY1LEL.uasset",
-				"C:/Users/erloz/OneDrive/Documentos/GitHub/WeepingAngels/WeepingAngels/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/C9/NFKH3LC3NFG5QBNWL3NYWS.uasset"
+				"C:/Users/erloz/OneDrive/Documentos/GitHub/WeepingAngels/WeepingAngels/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/C9/NFKH3LC3NFG5QBNWL3NYWS.uasset",
+				"C:/Users/erloz/OneDrive/Documentos/GitHub/WeepingAngels/WeepingAngels/Content/BTService_CheckPlayerLooking.uasset",
+				"C:/Users/erloz/OneDrive/Documentos/GitHub/WeepingAngels/WeepingAngels/Content/EQS_CANMOVE.uasset",
+				"C:/Users/erloz/OneDrive/Documentos/GitHub/WeepingAngels/WeepingAngels/Content/EQS_PlayerVisionCheck.uasset",
+				"C:/Users/erloz/OneDrive/Documentos/GitHub/WeepingAngels/WeepingAngels/Content/BP_WeepingAngel.uasset"
 			]
 		}
 	]
